@@ -1,0 +1,27 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+    
+        {
+            "type": "venus",
+            "request": "launch",
+            "name": "Launch with all views",
+            "program": "${file}",
+            "stopOnEntry": true,
+            "stopAtBreakpoints": true,
+            "openViews": [
+                "Robot",
+                "LED Matrix",
+                "Seven Segment Board",
+                "Memory"
+            ],
+            "ledMatrixSize": {
+                "x": 10,
+                "y": 10
+            }
+        }
+    ]
+}

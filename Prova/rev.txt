@@ -1,0 +1,69 @@
+### Revisão P1 - mc-404 ###
+
+Evolução dos computadores(){
+  -> 2500 AC: Invenção do ábaco -> contas de forma mais mecanica
+  -> 200 AC:  SISTEMA BINÁRIO 
+  -> 1834: máquina de babbage -> computador programável
+  -> Ada Lovelace -> primeira programadora de computadores
+  
+  -> Década de 30: 
+    - computadores eram pessoas 
+    - cada parte da conta é particionada
+    - 1936: máquina de turing
+    - artigo comptable numbers (ler depois)
+
+  -> Década de 40:
+    - direcionamento para a guerra
+    - contas para coordenadas de ataques
+    - ENIAC: 5.000 adições por segundo (hj é 4bi instruções)
+    - programável por cabos e interruptores
+    - valvulas : geram muito calor e queimam com facilidade
+    - 1947: transisitor -> n foi utilizado imediatamente em computadores
+    - IAS: instituto em princeton construção do ENIAC
+    - memória: 1024 palavras de 40 bits
+    - conceito de programa armazenado
+
+
+  -> Década de 50:
+    - UNIVAC: primeiro computador comercial
+    - linguagem FORTRAN
+    - 1958: computadores usam transistores
+    - invenção do circuito integrado : multiplos transistores em uma pastilha de silício
+    - gordon moore : numero de transisitores dobra a cada armazenado
+    
+
+  -> Década de 60:
+    - Lei de moore: crescimento expoenencial dos componentes de um computador  
+    - 1968: INTEL, moore cofundador
+    - circuitos integrados começam a ser utilizados na construção de computadores
+
+
+  -> Década de 70:
+    - primeiro microprocessador Intel 4004 (92.600 op/s)
+    - Intel 8086: patriarca da x86 (não compatível com os anteriores)
+    - Intel 8088: versão mais barata do 8086 
+    - chips posteriores são compatíveis com x86
+  
+
+  -> Década de 80:
+    - IBM PC: usa o 8088 
+    - 80386: 32 bits, memória virtual, código legado
+    - batalha RISC vs CISC
+    - tornar o código de maquina mais simples
+    - RISC: mais instruções porém mais rápido
+    - RISC não era código legado
+
+  
+  -> Década de 90:
+    - x86 muito complexo
+    - tradução dinâmica para RISC
+    - primeiro processador (pentium pro)
+  
+
+  -> Década de 2000:
+    - AMD: inivações na familia x86
+    - introdução do modo 64 bits AMD64
+    - introdução de mais núcleos
+    - código tem que ser paralelizado 
+     
+}
